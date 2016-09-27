@@ -24,6 +24,6 @@
     "jsdom": "^6.3.0",
     "juice2": "git+https://github.com/proofme/juice.git#98a4aedc6b88bd4466b2a4c6b167b18a8036edf7",
     "optimist": "~0.6.1",
-    "swig": "~1.4.2"
+    "swig": "git+https://github.com/proofme/swig.git#1e8eabc5496ffc6b9aae6702a28bfa5dcd85fd71"
   }
 }
